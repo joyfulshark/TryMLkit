@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1004514582129",
+    "firebase_url": "https://trymlkit-bfc84.firebaseio.com",
+    "project_id": "trymlkit-bfc84",
+    "storage_bucket": "trymlkit-bfc84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004514582129:android:22ef96d6c3f49fa17245d0",
+        "android_client_info": {
+          "package_name": "com.joyfulshark.trymlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004514582129-vk3kl69qvvuva4ufuvit2evr4rfa0epk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joyfulshark.trymlkit",
+            "certificate_hash": "42617c540abdd32e14d057937539eadabb86fc42"
+          }
+        },
+        {
+          "client_id": "1004514582129-vgfh5fjvu3va3dchthq7oue7vt6k0g3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHfN7ajXwBW-Y4gt0Wis_2eFOvE2kF0nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004514582129-vgfh5fjvu3va3dchthq7oue7vt6k0g3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
